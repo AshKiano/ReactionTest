@@ -1,0 +1,8 @@
+name: ReactionTest
+version: '${project.version}'
+main: com.ashkiano.reactiontest.ReactionTest
+api-version: 1.16
+authors: [ AshKiano ]
+commands:
+  startReactionTest:
+    description: Start a reaction test
